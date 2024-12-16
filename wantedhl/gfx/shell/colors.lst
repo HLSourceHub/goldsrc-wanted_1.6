@@ -1,0 +1,3 @@
+HELP_COLOR			240 187 42 //text on main screen
+PROMPT_BG_COLOR		56 56 56   // dialog button bgs
+PROMPT_TEXT_COLOR		240 187 42 // dialog message colours

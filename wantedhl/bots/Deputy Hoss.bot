@@ -1,0 +1,11 @@
+// Bot configuration file
+
+// Deatmatch model
+Model: hoss
+
+// Skill level (1-5)
+Skill: 4
+
+// Deathmatch colors (0-254)
+Topcolor: 55
+Bottomcolor: 105

@@ -1,0 +1,203 @@
+// Wanted! - Titles and messages
+//
+// 25/11/00
+
+// Wanted Default colour.
+
+$color 205 109 8
+
+// ****************
+// Episode Messages
+// ****************
+
+$position -1 0.4
+$effect 0
+$fadein 0.8
+$holdtime 2.5
+$fadeout 2
+
+TRAINT
+{
+The 'Big-O' ranch, Gurden Gulch, 1870
+}
+
+WANT1T
+{
+REDROCK CREEK
+}
+
+WANT2T
+{
+THE JOURNEY
+}
+
+WANT8T
+{
+BREYPASS
+}
+
+WANT11T
+{
+LOKITA FALLS
+}
+
+WANT16T
+{
+SERINO
+}
+
+WANT19T
+{
+THE BORDER HILLS
+}
+
+WANT26T
+{
+RETURN TO REDROCK
+}
+
+Want35T
+{
+SHOWDOWN
+}
+
+//******************************
+//***** Needless Slaughter *****
+//******************************
+
+HANGED
+{
+Rogan Black
+
+Hanged for murder - 1876
+}
+
+SHOTHORSE
+{
+Rogan Black
+
+Lynched for cruelty to horses - 1876
+}
+
+SCALPED
+{
+Rogan Black
+
+Scalped by once friendly tribe - 1876
+}
+
+KILLMEX
+{
+Rogan Black
+
+Killed by angry Mexican mob - 1876
+}
+
+SHOTANNIE
+{
+Rogan Black
+
+Gunned down by jealous Deputy - 1876
+}
+
+TRAIN01
+{
+Rogan Black
+
+Hanged for Murder - 1870
+}
+
+
+//***********************
+//*** Intro Messages ****
+//***********************
+
+$position -1 0.9
+$fadein 0.5
+$holdtime 5
+$fadeout 0.8
+
+INTRO1
+{
+The Black Homestead.  1876.
+}
+
+$holdtime 10
+
+INTRO2
+{
+Twenty years ago, the Black homestead was burned
+to the ground in a brutal raid by outlaw bandits.
+
+Rogan Black, eldest son of John and Isabelle, was
+the only survivor.  The body of his younger
+brother, Raymond, was never found.
+}
+
+$holdtime 6
+
+INTRO3
+{
+The young Rogan, raised by the Colonel of the cavalry
+unit sent to investigate the massacre, grew into a
+man who held the law above all else.
+}
+
+$holdtime 10
+
+INTRO4
+{
+Twenty years after the massacre, Rogan Black, now
+Sheriff of the sleepy town of Redrock Creek, is about
+to come face to face with his past...
+}
+
+//*********************
+//**** End Credits ****
+//*********************
+
+$color 205 109 8
+$position -1 0.6
+$fadein 0.7
+$holdtime 8
+$fadeout 1.3
+
+CREDITA
+{
+MAVERICK DEVELOPMENTS ARE:
+
+Phil Daniels, Tony Newton, Mike Blowers
+Jordan Weber-Flink, Jack Potter, Ken Early
+Shaun Gurden, Dylan Bray, A.u.s.t.i.n
+}
+
+CREDITB
+{
+SPECIAL THANKS TO:
+
+Scarecrow, Jennie Blowers, Ted Anderson, Valve software
+
+IMMERSION TOUCHSENSE SUPPORT: 
+(For all the touchy feely stuff)
+
+Sr. Director of Evangelism & Development: Dean Chang
+Developer Relations Manager: Nemer Velasquez
+TouchSense Software Engineer: Jason Fleming
+Developer Support Manager: Bob Heubel
+}
+
+CREDITC
+{
+ADDITIONAL THANKS TO:
+
+Jill Gurden, Mary Ferguson, Toby & Lucy, Samantha, 
+Denise, Leah, Robin Tucker, Helen Chalmers, The DaC gang
+Rik Scott, Jeff McClintock, Murray Barton
+}
+
+$fadein 0.2
+
+CREDITD
+{
+No chickens were harmed during the making of this game.
+}
